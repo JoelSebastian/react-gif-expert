@@ -1,0 +1,11 @@
+{
+  "_comment": "jsconfig.json at project root",
+  "javascript": {
+    "suggest.paths": true,
+    "preferences.quoteStyle": "single"
+  },
+  "compilerOptions": {
+    "jsx": "preserve",
+    "checkJs": true,
+  },
+}
